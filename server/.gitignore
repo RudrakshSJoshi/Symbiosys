@@ -1,0 +1,6 @@
+venv
+__pyache__/
+*.pyc
+.env
+model_data
+TMalign.exe

@@ -1,0 +1,32 @@
+.results-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+.result-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.08);
+  padding: 1.5rem;
+}
+
+.sequence-info {
+  margin-bottom: 1rem;
+}
+
+.sequence-info h3 {
+  color: #0f172a;
+  margin-bottom: 0.5rem;
+}
+
+.sequence-text {
+  font-family: monospace;
+  background: #f1f5f9;
+  padding: 0.5rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
