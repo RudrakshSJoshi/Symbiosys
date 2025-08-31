@@ -1,4 +1,4 @@
-# SYMBIOSYS — Synthetic Yield‑driven Molecular Biosimilar Innovation & Optimization via Structural Yield Simulation
+# SYMBIOSYS — Synthetic Molecular Biosimilar Engine for Optimised and Efficient Drug Protein Synthesis
 
 ![SYMBIOSYS Logo](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-08-31%20113422-aqdNwQ5sufPQTvf9BXLR0U4E0DrPiH.png)
 
